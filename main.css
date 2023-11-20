@@ -1,13 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Andrew Is The Best</title>
-  <link rel="stylesheet" type="text/css" href="Web.css">
-  <h1>ANDREW MILLER</h1>
-  <p>Best Coder In Upper Michigan</p>
-</head>
-<body>
-  <h2>Andrew Is The Best</h2>
-</body>
+html, body {
+  font-family: sans-serif;
+  margin: 1000;
+  width: 150%;
+  height: 1000%;
+}
 
-</html>
+h1 {
+  color: darkblue;
+  font-size: 50px;
+}
+
+p {
+  color: black;
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
